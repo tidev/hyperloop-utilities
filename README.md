@@ -6,9 +6,9 @@ This repository provides CommonJS utilities to be used in native module developm
 ## Current Utilities
 - [x] Time conversation (Javascript `Date` <-> `NSDate`)
 - [x] Web-Colors (#fff, white, rgba(1,1,1,1) -> `UIColor`)
-- [x] iOS version-control (`isiOS<7,8,9,X>OrGreater`, `isiOSGreaterOrEqualTo`)
+- [x] iOS version-control (`isiOS<7,8,9,10>OrGreater`, `isiOSGreaterOrEqualTo`)
 - [x] Force-Touch validation
-- [x] Various more (check `lib/utils.js`)
+- [x] Various other utils (see `lib/utils.js`)
 
 ## Contribute
 We are very happy about any contributions to ease the way to map Javascript input to Hyperloop. If you have ideas to extend the utitilities (both iOS and Android are welcome), please open a [Pull Request](https://github.com/appcelerator/hyperloop-utilities/pulls) and we take a look! :rocket:
